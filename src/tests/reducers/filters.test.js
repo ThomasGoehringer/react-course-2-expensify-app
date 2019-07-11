@@ -1,3 +1,5 @@
+/* eslint-env jest */
+
 import moment from 'moment'
 import filtersReducer from '../../reducers/filters'
 

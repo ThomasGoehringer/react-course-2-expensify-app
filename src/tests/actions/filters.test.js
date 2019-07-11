@@ -1,3 +1,5 @@
+/* eslint-env jest */
+
 import moment from 'moment'
 import {
   setTextFilter,

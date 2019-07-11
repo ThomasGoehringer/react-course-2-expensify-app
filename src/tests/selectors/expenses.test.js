@@ -1,3 +1,5 @@
+/* eslint-env jest */
+
 import moment from 'moment'
 import selectExpenses from '../../selectors/expenses'
 import expenses from '../fixtures/expenses'

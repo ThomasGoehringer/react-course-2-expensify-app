@@ -1,3 +1,5 @@
+/* eslint-env jest */
+
 import selectExpensesTotal from '../../selectors/expenses-total'
 import expenses from '../fixtures/expenses'
 
