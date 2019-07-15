@@ -8,7 +8,7 @@ export class AddExpensePage extends React.Component {
     this.props.startAddExpense(expense)
     this.props.history.push('/')
   }
-  render() {
+  render () {
     return (
       <div>
         <div className='page-header'>

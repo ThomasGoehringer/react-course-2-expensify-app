@@ -4,7 +4,7 @@ const promise = new Promise((resolve, reject) => {
     //   name: 'Thomas',
     //   age: 24
     // })
-    reject('Something went wrong!')
+    reject(new Error('Something went wrong!'))
   }, 1500)
 })
 

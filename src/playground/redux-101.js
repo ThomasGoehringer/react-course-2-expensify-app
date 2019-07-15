@@ -61,3 +61,5 @@ store.dispatch(decrementCount())
 store.dispatch(decrementCount({ decrementBy: 10 }))
 
 store.dispatch(setCount({ count: 101 }))
+
+unsubscribe()

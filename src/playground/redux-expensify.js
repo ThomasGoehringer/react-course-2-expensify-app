@@ -1,3 +1,5 @@
+/* eslint no-unused-vars: 0 */
+
 import { createStore, combineReducers } from 'redux'
 import uuid from 'uuid'
 
